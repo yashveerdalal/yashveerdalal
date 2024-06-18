@@ -39,3 +39,4 @@ LinkedIn : www.linkedin.com/in/yashveer-dalal-6b81732ab <br>
 Instagram : https://www.instagram.com/yashveer_dalal/ <br>
 Thank you for visiting my GitHub profile! 😊
 
+![yashveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashveerdalal&show_icons=true&theme=radical)
