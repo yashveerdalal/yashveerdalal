@@ -40,20 +40,27 @@ Hello! I'm Yashveer, a Computer Engineering student with a passion for coding, t
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashveerdalal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashveerdalal&theme=highcontrast&hide_border=false" width="47%" />
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="flex: 1; max-width: 65%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashveerdalal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" style="width: 75%;" />
+  </div>
+  <div style="flex: 1; max-width: 65%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashveerdalal&theme=highcontrast&hide_border=false" style="width: 75%;" />
+  </div>
+  <div style="flex: 1; max-width: 65%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 75%;" />
+  </div>
 </div>
 
-<br>
+---
 
-## 🔍 Top Languages:
-> GitHub sometimes doesn't detect Python properly. Add more `.py` files or use this dummy boost if needed.
+## 🐍 Python Usage Boost
+
+If Python doesn’t show up in your GitHub stats properly, add a simple Python file like this in your active repo:
 
 ```python
 # boost_python.py
-# Purpose: Encourage GitHub to detect Python usage in stats
 def boost_python_visibility():
-    print("This file exists to help GitHub stats detect Python!")
+    print("GitHub, please count Python in my top languages!")
 
 boost_python_visibility()
