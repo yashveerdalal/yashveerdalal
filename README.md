@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 Where My Code Lives Lately
 
 - Leveraging **SQL and Python** for end-to-end data cleaning and analysis  
 - Understanding **distributed backend systems** through Java and Spring Boot  
