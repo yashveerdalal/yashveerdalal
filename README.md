@@ -1,6 +1,6 @@
 ## Heya! I write Java that scales and Python that speaks data...
 
-🎓 Computer Science undergrad | Data Structures & Algorithms | Java Backend Developer  
+🎓 Data analytics | Data Structures & Algorithms | Java Backend Developer  
 
 ---
 
