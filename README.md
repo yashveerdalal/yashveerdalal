@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Insights
+
 
 <div align="center">
   <img 
@@ -36,13 +36,9 @@
   />
 </div>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yashveerdalal&icon=0&color=0" alt="Profile views" />
-  </a>
-</p>
+
+
 
 ---
 
