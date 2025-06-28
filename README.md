@@ -27,10 +27,11 @@
 
 ### 📊 GitHub Insights
 
-<div style="display: flex; justify-content: center; width: 100%; margin-top: 20px;">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=true&layout=compact&langs_count=10&hide_title=true" 
-    style="max-width: 100%; height: auto;" 
+    width="800"
+    style="max-width: 100%;"
     alt="Top Languages"
   />
 </div>
