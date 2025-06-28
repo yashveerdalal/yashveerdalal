@@ -4,7 +4,7 @@
 
 ---
 
-###  Where My Code Lives Lately 👨‍🎓
+### 🐝 Where My Code Lives Lately
 
 - Leveraging **SQL and Python** for end-to-end data cleaning and analysis  
 - Understanding **distributed backend systems** through Java and Spring Boot  
@@ -21,7 +21,7 @@
   Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
 
 - 🔹 **Google Drive Clone**  
-  Built a modular file storage web app using Node.js, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
+  Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
 
 ---
 
