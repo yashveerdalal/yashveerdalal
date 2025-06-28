@@ -39,4 +39,5 @@
 
 ---
 
-> Turning raw data into insights. Building systems that scale. Staying curious.
+> Turning raw data into insights. Building systems that scale. Staying curious.  
+📫 Reach me at: **yashveerdalal@gmail.com**
