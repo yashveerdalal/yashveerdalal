@@ -27,7 +27,7 @@
 
 <div align="center">  
 
-<img src="https://streak-stats.demolab.com?user=yashveerdalal&theme=apprentice&hide_border=true" width="400"/>  
+
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=true&layout=compact&langs_count=10&hide_title=true" width="400"/>  
   
