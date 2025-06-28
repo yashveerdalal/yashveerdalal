@@ -1,16 +1,28 @@
-## Hi there 👋
+## Heya! I write Java that scales and Python that speaks data.
 
-<!--
-**yashveerdalal/yashveerdalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergrad | Data Structures & Algorithms | Java Backend Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+
+- Leveraging **SQL and Python** for end-to-end data cleaning and analysis  
+- Understanding **distributed backend systems** through Java and Spring Boot  
+- Building **scalable microservices** with Java and integrating analytics using **cloud-native tools**
+
+---
+
+### 📁 Selected Projects
+
+- 🔹 **Inventory & Expiry Management System**  
+  Designed a robust SQL-based solution to track stock levels, expiry dates, and operational insights — blending analytics with real-time inventory control.
+
+- 🔹 **Layoffs & Customer Support Analytics**  
+  Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
+
+- 🔹 **Google Drive Clone**  
+  Built a modular file storage web app using Node.js, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
+
+---
+
+> Turning raw data into insights. Building systems that scale. Staying curious.
