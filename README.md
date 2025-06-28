@@ -25,20 +25,20 @@
 
 ---
 
-<div align="center">
-
+<p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=yashveerdalal&theme=apprentice&hide_border=false" 
     width="500" 
     alt="GitHub Streak"
   />
+</p>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&hide_title=true&langs_count=10" 
     width="500" 
     alt="Top Languages"
   />
-
-</div>
+</p>
 
 ---
 
