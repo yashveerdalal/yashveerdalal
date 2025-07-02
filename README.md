@@ -17,7 +17,7 @@
 - 🔹 **Inventory & Expiry Management System**  
   Designed a robust SQL-based solution to track stock levels, expiry dates, and operational insights — blending analytics with real-time inventory control.
 
-- 🔹 **Layoffs & Customer Support Analytics**  
+- 🔹 **Customer & Product Support Analytics**  
   Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
 
 - 🔹 **Google Drive Clone**  
