@@ -32,12 +32,11 @@
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&hide_title=true&langs_count=10" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&hide_title=true&langs_count=10&hide=jupyter%20notebook" 
   width="500" 
-  alt="Top Languages"
+  alt="Top Languages (No Jupyter)"
 />
 
 ---
 
 > Turning raw data into insights. Building systems that scale. Staying curious.
-> 
