@@ -1,42 +1,63 @@
-## Heya! I write Java that scales and Python that speaks data...
+# Heya! I'm Yash 👋 
+### I write Java that scales and Python that speaks data...
 
-🎓 Data analytics | Data Structures & Algorithms | Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=flat-square" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B%20%7C%20Java-orange?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Node.js-green?style=flat-square" alt="Backend" />
+</p>
 
 ---
 
 ### 🐝 Where My Code Lives Lately
 
-- Leveraging **SQL and Python** for end-to-end data cleaning and analysis  
-- Understanding **distributed backend systems** through Java and Spring Boot  
-- Building **scalable microservices** with Java and integrating analytics using **cloud-native tools**
+* **Data Engineering:** Leveraging **SQL and Python** for end-to-end data cleaning and analysis.
+* **Systems Design:** Understanding **distributed backend systems** through Java and Spring Boot.
+* **Cloud & Microservices:** Building **scalable microservices** with Java and integrating analytics using **cloud-native tools**.
 
 ---
 
 ### 📁 Selected Projects
 
-- 🔹 **Inventory & Expiry Management System**  
-  Designed a robust SQL-based solution to track stock levels, expiry dates, and operational insights — blending analytics with real-time inventory control.
+* 🔹 **Inventory & Expiry Management System** Designed a robust SQL-based solution to track stock levels, expiry dates, and operational insights — blending analytics with real-time inventory control.
 
-- 🔹 **Customer & Product Support Analytics**  
-  Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
+* 🔹 **Customer & Product Support Analytics** Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
 
-- 🔹 **Google Drive Clone**  
-  Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
+* 🔹 **Google Drive Clone** Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
 
 ---
 
-<img 
-  src="https://nirzak-streak-stats.vercel.app/?user=yashveerdalal&theme=apprentice&hide_border=false" 
-  width="500" 
-  alt="GitHub Streak"
-/>
+### 📊 My Coding Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&hide_title=true&langs_count=10&hide=jupyter%20notebook" 
-  width="500" 
-  alt="Top Languages (No Jupyter)"
-/>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yashveerdalal&theme=apprentice&show_icons=true&hide_border=false&count_private=true" 
+    width="400" 
+    alt="Yash's GitHub Stats" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yashveerdalal&theme=apprentice&hide_border=false" 
+    width="400" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&layout=compact&langs_count=8" 
+    width="400" 
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
-> Turning raw data into insights. Building systems that scale. Staying curious.
+> "Turning raw data into insights. Building systems that scale. Staying curious."
+
+<p align="left">
+  <a href="https://linkedin.com/in/yashveerdalal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yashdalal369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
