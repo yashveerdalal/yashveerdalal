@@ -1,4 +1,3 @@
-# Heya! I'm Yash 👋 
 ### I write Java that scales and Python that speaks data...
 
 <p align="left">
@@ -36,7 +35,7 @@
 
 ---
 
-### 📈 Activity & Insights
+
 
 <p align="left">
   <img 
