@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=flat-square" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B%20%7C%20Java-orange?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%20%7C%20Java-orange?style=flat-square" alt="DSA" />
   <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Node.js-green?style=flat-square" alt="Backend" />
 </p>
 
@@ -21,9 +21,9 @@
 
 * 🔹 **Inventory & Expiry Management System** Designed a robust SQL-based solution to track stock levels and expiry dates — blending analytics with real-time control.
 
-* 🔹 **Customer & Product Support Analytics** Cleaned and transformed messy datasets using Python & SQL to uncover patterns and optimize performance.
+* 🔹 **Customer & Product Support Analytics** Cleaned and transformed datasets using Python & SQL to uncover patterns and optimize performance.
 
-* 🔹 **Google Drive Clone** Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring secure cloud integration.
+* 🔹 **Google Drive Clone** Built a modular file storage web app using Node, Express, Supabase, and MongoDB.
 
 ---
 
@@ -36,13 +36,13 @@
 
 ---
 
-### 📊 My Coding Stats
+### 📈 Activity & Insights
 
 <p align="left">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashveerdalal&theme=apprentice&show_icons=true&hide_border=false&count_private=true" 
     width="400" 
-    alt="Yash's GitHub Stats" 
+    alt="Stats" 
   />
 </p>
 
@@ -50,15 +50,15 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=yashveerdalal&theme=apprentice&hide_border=false" 
     width="400" 
-    alt="GitHub Streak"
+    alt="Streak"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&layout=compact&langs_count=8" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&layout=compact&langs_count=10&hide=jupyter%20notebook" 
     width="400" 
-    alt="Top Languages"
+    alt="Langs"
   />
 </p>
 
