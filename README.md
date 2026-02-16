@@ -19,11 +19,20 @@
 
 ### 📁 Selected Projects
 
-* 🔹 **Inventory & Expiry Management System** Designed a robust SQL-based solution to track stock levels, expiry dates, and operational insights — blending analytics with real-time inventory control.
+* 🔹 **Inventory & Expiry Management System** Designed a robust SQL-based solution to track stock levels and expiry dates — blending analytics with real-time control.
 
-* 🔹 **Customer & Product Support Analytics** Cleaned and transformed messy datasets using Python & SQL to uncover patterns, optimize support performance, and visualize workforce impact.
+* 🔹 **Customer & Product Support Analytics** Cleaned and transformed messy datasets using Python & SQL to uncover patterns and optimize performance.
 
-* 🔹 **Google Drive Clone** Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring authentication, uploads, and secure cloud integration.
+* 🔹 **Google Drive Clone** Built a modular file storage web app using Node, Express, Supabase, and MongoDB — featuring secure cloud integration.
+
+---
+
+### 🎓 Certifications & Skills
+
+* 🏆 **SQL (Intermediate)** - HackerRank
+* 📊 **Core Data Analysis** - Deloitte
+* 📜 **JavaScript Specialist** - Udemy
+* ♟️ **Interests:** Chess, Trekking, and Mountaineering
 
 ---
 
@@ -31,7 +40,7 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=yashveerdalal&theme=apprentice&show_icons=true&hide_border=false&count_private=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashveerdalal&theme=apprentice&show_icons=true&hide_border=false&count_private=true" 
     width="400" 
     alt="Yash's GitHub Stats" 
   />
@@ -47,7 +56,7 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&layout=compact&langs_count=8" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashveerdalal&theme=apprentice&hide_border=false&layout=compact&langs_count=8" 
     width="400" 
     alt="Top Languages"
   />
